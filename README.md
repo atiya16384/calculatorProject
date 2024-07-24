@@ -1,6 +1,6 @@
 # Stack Implementation in C
 
-This project implements a basic stack data structure in C. The stack is a fundamental data structure that follows the Last In, First Out (LIFO) principle. This implementation provides a simple yet comprehensive example of how to work with stacks in the C programming language.
+This project implements a basic stack data structure in C. The stack is a fundamental data structure that follows the Last In, First Out (LIFO) principle. This implementation provides a simple yet comprehensive example of how to work with stacks in the C programming language. Finished it over the summer of first year. 
 
 ## Features
 
